@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cosmo</h1>
 
-<p align="left"> <a href="https://twitter.com/cryptocosmico" target="blank"><img src="https://img.shields.io/twitter/follow/cryptocosmico?logo=twitter&style=for-the-badge" alt="cryptocosmico" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hollowsocrates" target="blank"><img src="https://img.shields.io/twitter/follow/hollowsocrates?logo=twitter&style=for-the-badge" alt="hollowsocrates" /></a> </p>
 
 - 🔭 I’m currently working on **private projects 🤫**
 
